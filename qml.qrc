@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>HomeForm.ui.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>LangSelect.qml</file>
+        <file>LanguageRow.qml</file>
+        <file>translations/translate-test_de.qm</file>
+        <file>translations/translate-test_en.qm</file>
+    </qresource>
+</RCC>
